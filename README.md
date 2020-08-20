@@ -1,9 +1,6 @@
 
-
-
-
 <p  align="center">
-  <img align="center" src="./ez.gif" alt="MyScript" /><br>
+  <img align="center" src="https://media.giphy.com/media/MERLNYSYuFIhKwk9KM/giphy.gif" alt="MyScript" /><br>
 </p>
 <p  align="center">
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=jSUNSH1NEw.jSUNSH1NEw" alt=" github stats" /><br>
