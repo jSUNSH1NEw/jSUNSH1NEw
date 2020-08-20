@@ -1,9 +1,14 @@
 
+
+
+
 <p  align="center">
-  <img align="center" src="https://im6.ezgif.com/tmp/ezgif-6-bfef9c6c528a.gif" alt=" github stats" /><br>
+  <img align="center" src="./ez.gif" alt=" github stats" /><br>
+</p>
+<p  align="center">
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=jSUNSH1NEw.jSUNSH1NEw" alt=" github stats" /><br>
 </p>
 
-<br>
 
 <div align="center">
   <p>🔭 I’m currently working on my project [Lifetime] a new UX-organizer</p>
@@ -39,13 +44,13 @@
   <h2 align="center">My github stats</h2>  
 
 <p  align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jSUNSH1NEw&layout=compact&theme=radical" />
-   <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=jSUNSH1NEw&show_icons=true&include_all_commits=true&theme=tokyonight" alt=" github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jSUNSH1NEw&layout=compact&theme=tokyonight" />
 </p>
 
-<p  align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jSUNSH1NEw&show_icons=true&include_all_commits=true&theme=radical" alt=" github stats" /><br>
-</p>
+
+
+
 
 
 
