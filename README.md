@@ -1,16 +1,17 @@
-### Hi there 👋
+![Peek 19-08-2020 13-37](https://im6.ezgif.com/tmp/ezgif-6-bfef9c6c528a.gif)
 
-<!--
-**jSUNSH1NEw/jSUNSH1NEw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href= "#">
+    <img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png" alt="Portofolio SUNSH1NE"/>
+  </a>
+  <a href= "https://www.linkedin.com/in/JoffreyWeertz/">
+    <img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png" alt="Linkedin Joffrey weertz"/>
+  </a>
+  <a href= "https://dev.to/sunsh1ne">
+    <img src="https://img.icons8.com/windows/32/000000/dev.png" alt="Dev.to SUNSH1NE"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p  align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=jSUNSH1NEw&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
+</p>
