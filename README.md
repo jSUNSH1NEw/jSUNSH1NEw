@@ -1,4 +1,10 @@
-![Peek 19-08-2020 13-37](https://im6.ezgif.com/tmp/ezgif-6-bfef9c6c528a.gif)
+![Peek 19-08-2020 13-37]
+
+<p  align="center">
+  <img align="center" src="https://im6.ezgif.com/tmp/ezgif-6-bfef9c6c528a.gif" alt=" github stats" /><br>
+</p>
+
+<br>
 
 <p align="center">
   <a href= "#">
@@ -13,5 +19,10 @@
 </p>
 
 <p  align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=jSUNSH1NEw&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jSUNSH1NEw&show_icons=true&include_all_commits=true&theme=radical" alt=" github stats" /><br>
+</p>
+
+<p  align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jSUNSH1NEw&layout=compact&theme=radical" />
+   <br>
 </p>
