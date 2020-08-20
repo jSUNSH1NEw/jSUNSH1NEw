@@ -7,9 +7,9 @@
 
 <div align="center">
   <p>🔭 I’m currently working on my project [Lifetime] a new UX-organizer</p>
-  <p>🌱 I’m currently learning ... but these days im in :  FeatherJs , GraphQL & Typescript</p>
-  <p>👯 I’m on internship at [Automatly]</p>
-  <p>💬 Ask me about anything </p>
+  <p>🌱 I’m always learning ... but these days im in :  FeatherJs , GraphQL & Typescript</p>
+  <p>👯 I’m on internship at [Automatly] my status is FullStack Wep/App developper </p>
+  <p>💬 Ask me about anything :D </p>
 
   <h2>Languages and Tools</h2>  
 
