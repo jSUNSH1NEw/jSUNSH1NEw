@@ -1,7 +1,5 @@
 
-<p  align="center">
-  <img align="center" src="https://media.giphy.com/media/kqYhbqKN1Qtjy/giphy.gif" alt="MyScript" /><br>
-//</p>
+
 <p  align="center">
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=jSUNSH1NEw.jSUNSH1NEw" alt=" github stats" /><br>
 </p>
