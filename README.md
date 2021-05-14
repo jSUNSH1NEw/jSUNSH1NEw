@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <p>🚆 im still learning and my present goal is [web3 dAPPS][Eth connec Smartcontract] [usage and construction of token] </p>
+  <p>🚆 im still learning and my present goal is [web3 dAPPS][Eth3 Smartcontract] [usage and construction of token] </p>
   <p>🔭 I’m currently working on my project [Lifetime] a new UX-organizer</p>
   <p>🌱 I’m always learning ... but these days im in :  Web3js, GraphQL </p>
   <p>👯 I have do a internship at [Automatly] my status was FullStack Wep developper </p>
