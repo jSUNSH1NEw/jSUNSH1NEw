@@ -7,9 +7,9 @@
 
 <div align="center">
   <p>🚆 im still learning and my present goal is [web3 dAPPS][Eth Smartcontract] [usage and construction of token] </p>
-  <p>🔭 I’m currently working on my project [Potencia] a new Cooperative bank system based on Tesoz </p>
-  <p>🌱 I’m always learning ... but these days im in :  Web3js, GraphQL </p>
-  <p>👯 I have do a internship at [Automatly] my status was FullStack Wep developper </p>
+  <p>🔭 I’m currently working on my project [Potencia] a new citizen economy driven by a virtual states and Economic DAO fund based on debt repayment this project will be based on ArchEthic network</p>
+  <p>🌱 I’m always learning ... but these days im in :  Web3js, Moralis,Avalanche, Dao, Lptoken,Solidity training </p>
+  <p>👯 I have do a internship at [Automatly] my status was FullStack Wep developper javascript </p>
   <p>💬 Ask me about anything :D </p>
 
   <h2>Languages and Tools</h2>  
