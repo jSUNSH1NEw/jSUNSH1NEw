@@ -1,10 +1,10 @@
 
 
-
 ## 💬 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Web2/Web3 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 on BeCode, promotion 𝚘𝚏 𝟸019 + follow the Harvard eClassroom course from (EDX/course) where i making my code education over Mobile apk devlopment and deploiement using React Native & expo Usage 
 - 🌊  𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 WSL2 + gitpod as a personnal systems  
+
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘 
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
@@ -24,7 +24,9 @@ Developing for Ennea.studio for DeFi project (and working for my personnal DeFi 
 
  
 ## ⚡ 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 GitHub 𝙼𝚎𝚝𝚛𝚒𝚌𝚜  
-![Metrics](https://metrics.lecoq.io/jSUNSH1NEw)
+![Basic Metrics](https://metrics.lecoq.io/jSUNSH1NEw)
+
+![🔻🔻🔻🔻🔻All Metrics🔻🔻🔻🔻🔻🔻](https://metrics.lecoq.io/insights/jSUNSH1NEw)
 
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 vercel 𝙼𝚎𝚝𝚛𝚒𝚌𝚜   
