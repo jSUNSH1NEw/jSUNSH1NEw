@@ -45,9 +45,6 @@ Developing for Ennea.studio for DeFi project (and working for my personnal DeFi 
   <a href= "https://twitter.com/JSUNSH1NEw">
     <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" alt="tweeter Joffrey weertz" height="40em" align="center"/>
   </a>
-  <a href= "https://sunsh1n337.carrd.co/">
-    <img src="" alt="carrd.to SUNSH1NE" height="40em" align="center"/>
-  </a>
 </p>
 	
 
