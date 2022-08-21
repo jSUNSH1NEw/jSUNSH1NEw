@@ -29,10 +29,9 @@ Developing for Ennea.studio for DeFi project (and working for my personnal DeFi 
 ![🔻🔻🔻🔻🔻All Metrics🔻🔻🔻🔻🔻🔻](https://metrics.lecoq.io/insights/jSUNSH1NEw)
 
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 vercel 𝙼𝚎𝚝𝚛𝚒𝚌𝚜   
+## 🔔 My top languages ( check my total metric  )  
 
 <p  align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jSUNSH1NEw&show_icons=true&include_all_commits=true&theme=tokyonight" alt=" github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jSUNSH1NEw&layout=compact&theme=tokyonight" />
 </p>
 
