@@ -3,8 +3,8 @@
 
 ## 💬 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Web2/Web3 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 on BeCode, promotion 𝚘𝚏 𝟸019 + follow the  harvard eClassroom course (from EDX/course) for React Native & expo Usage 
-- :ocean: 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 WSL2 + gitpod as a personnal systems  
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 on BeCode, promotion 𝚘𝚏 𝟸019 + follow the Harvard eClassroom course from (EDX/course) where i making my code education over Mobile apk devlopment and deploiement using React Native & expo Usage 
+- 🌊  𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 WSL2 + gitpod as a personnal systems  
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘 
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
@@ -17,10 +17,10 @@ Developing for Ennea.studio for DeFi project (and working for my personnal DeFi 
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
 	- Create and add a treasury contract who epoch is being heritable from staking contract
 	- 𝙼𝚊𝚔𝚎 [**AgoraBrank**] Close a total spot dashboard with 1inch API usage 
-  - Create a  multiple FullStack Web3 boilerpate React, Next, ReactNative,
+  	- Create a  multiple FullStack Web3 boilerpate React, Next, ReactNative,
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-	- Create CLI for my Web3 boilerplate
-	- Being Yoda of Code being rdy for multiple solution :cyclone: 
+	- Create CLI for my Web3 boilerplate 🐙
+	- Being Yoda of Code being rdy for multiple solution 🌪️ 
 
  
 ## ⚡ 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 GitHub 𝙼𝚎𝚝𝚛𝚒𝚌𝚜  
