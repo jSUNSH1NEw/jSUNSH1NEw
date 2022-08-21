@@ -24,7 +24,7 @@ Developing for Ennea.studio for DeFi project (and working for my personnal DeFi 
 
  
 ## ⚡ 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 GitHub 𝙼𝚎𝚝𝚛𝚒𝚌𝚜  
-![Metrics](https://metrics.lecoq.io/insights/jSUNSH1NEw?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/jSUNSH1NEw?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 vercel 𝙼𝚎𝚝𝚛𝚒𝚌𝚜   
@@ -44,9 +44,8 @@ Developing for Ennea.studio for DeFi project (and working for my personnal DeFi 
   <a href= "https://twitter.com/JSUNSH1NEw">
     <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" alt="tweeter Joffrey weertz" height="40em" align="center"/>
   </a>
-  <a href= "https://www.linkedin.com/in/joffrey-weertz/">
-    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" alt="carrd.to SUNSH1NE" height="40em" align="center"/>
-    <imfg src="https://imgflip.com/gif/6qmxbe"/>
+  <a href= "https://sunsh1n337.carrd.co/">
+    <img src="" alt="carrd.to SUNSH1NE" height="40em" align="center"/>
   </a>
 </p>
 	
