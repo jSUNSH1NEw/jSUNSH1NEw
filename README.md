@@ -1,4 +1,4 @@
-[<img src="" alt="👋 Hi there! I'm Sunsh1ne"]
+
 
 
 ## 💬 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 
@@ -24,7 +24,7 @@ Developing for Ennea.studio for DeFi project (and working for my personnal DeFi 
 
  
 ## ⚡ 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 GitHub 𝙼𝚎𝚝𝚛𝚒𝚌𝚜  
-![Metrics](https://metrics.lecoq.io/jSUNSH1NEw?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/jSUNSH1NEw)
 
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 vercel 𝙼𝚎𝚝𝚛𝚒𝚌𝚜   
