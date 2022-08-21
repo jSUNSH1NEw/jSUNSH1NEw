@@ -1,14 +1,7 @@
 [<img src="https://imgflip.com/gif/6qmxbe" alt="👋 Hi there! I'm Sunsh1ne"]
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-## ⚡ 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 
+## 💬 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Web2/Web3 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 on BeCode, promotion 𝚘𝚏 𝟸019 + follow the  harvard eClassroom course (from EDX/course) for React Native & expo Usage 
 - :ocean: 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 WSL2 + gitpod as a personnal systems  
@@ -30,7 +23,7 @@ Developing for Ennea.studio for DeFi project (and working for my personnal DeFi 
 	- Being Yoda of Code being rdy for multiple solution :cyclone: 
 
  
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 GitHub 𝙼𝚎𝚝𝚛𝚒𝚌𝚜  
+## ⚡ 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 GitHub 𝙼𝚎𝚝𝚛𝚒𝚌𝚜  
 ![Metrics](https://metrics.lecoq.io/insights/jSUNSH1NEw?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 
@@ -52,11 +45,18 @@ Developing for Ennea.studio for DeFi project (and working for my personnal DeFi 
     <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" alt="tweeter Joffrey weertz" height="40em" align="center"/>
   </a>
   <a href= "https://www.linkedin.com/in/joffrey-weertz/">
-    <img src="https://img.icons8.com/windows/32/000000/dev.png" alt="carrd.to SUNSH1NE" height="40em" align="center"/>
+    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" alt="carrd.to SUNSH1NE" height="40em" align="center"/>
+  </a>
+  <a href="">
+	<iframe width="360" height="201" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6qmxbe"></iframe>
   </a>
 </p>
 	
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:55.83%;position:relative;"><iframe width="360" height="201" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6qmxbe"></iframe></div><p><a href="https://imgflip.com/gif/6qmxbe">via Imgflip</a></p></div>
+<div style="width:360px;max-width:100%;">
+	<div style="height:0;padding-bottom:55.83%;position:relative;">
+		<iframe width="360" height="201" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6qmxbe">			</iframe>
+	</div>
+</div>
 
 
 
