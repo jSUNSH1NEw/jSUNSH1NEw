@@ -1,4 +1,4 @@
-[<img src="https://imgflip.com/gif/6qmxbe" alt="👋 Hi there! I'm Sunsh1ne"]
+[<img src="" alt="👋 Hi there! I'm Sunsh1ne"]
 
 
 ## 💬 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 
@@ -46,17 +46,10 @@ Developing for Ennea.studio for DeFi project (and working for my personnal DeFi 
   </a>
   <a href= "https://www.linkedin.com/in/joffrey-weertz/">
     <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" alt="carrd.to SUNSH1NE" height="40em" align="center"/>
-  </a>
-  <a href="">
-	<iframe width="360" height="201" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6qmxbe"></iframe>
+    <imfg src="https://imgflip.com/gif/6qmxbe"/>
   </a>
 </p>
 	
-<div style="width:360px;max-width:100%;">
-	<div style="height:0;padding-bottom:55.83%;position:relative;">
-		<iframe width="360" height="201" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6qmxbe">			</iframe>
-	</div>
-</div>
 
 
 
