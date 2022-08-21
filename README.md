@@ -26,7 +26,7 @@ Developing for Ennea.studio for DeFi project (and working for my personnal DeFi 
 ## ⚡ 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 GitHub 𝙼𝚎𝚝𝚛𝚒𝚌𝚜  
 ![Basic Metrics](https://metrics.lecoq.io/jSUNSH1NEw)
 
-🔻🔻🔻🔻🔻![All Metrics](https://metrics.lecoq.io/insights/jSUNSH1NEw)🔻🔻🔻🔻🔻🔻
+🔻🔻🔻🔻🔻All Metrics : https://metrics.lecoq.io/insights/jSUNSH1NEw🔻🔻🔻🔻🔻🔻
 
 
 ## 🔔 My top languages ( check my total metric  )  
