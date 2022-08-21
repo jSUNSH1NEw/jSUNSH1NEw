@@ -3,7 +3,7 @@
 ## 💬 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Web2/Web3 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 on BeCode, promotion 𝚘𝚏 𝟸019 + follow the Harvard eClassroom course from (EDX/course) where i making my code education over Mobile apk devlopment and deploiement using React Native & expo Usage 
-- 🌊  𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 WSL2 + gitpod as a personnal systems  
+- 🌊  B𝚝𝚠 i 𝚞𝚜𝚎 WSL2 + gitpod as a virtual personnal systems and vercel as a dev:prod envirronment
 
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘 
