@@ -24,23 +24,16 @@ Developing for Ennea.studio for DeFi project (and working for my personnal DeFi 
 
  
 ## ⚡ 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 GitHub 𝙼𝚎𝚝𝚛𝚒𝚌𝚜  
-![Basic Metrics](https://metrics.lecoq.io/jSUNSH1NEw)
-
-🔻🔻🔻🔻🔻All Metrics : https://metrics.lecoq.io/insights/jSUNSH1NEw🔻🔻🔻🔻🔻🔻
+![Metrics](https://metrics.lecoq.io/jSUNSH1NEw?template=terminal&lines=1&isocalendar=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=Europe%2FBrussels&config.twemoji=true)
 
 
-## 🔔 My top languages ( check my total metric  )  
-
-<p  align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jSUNSH1NEw&layout=compact&theme=tokyonight" />
-</p>
 
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
   
 <p align="center">
-  <a href= "https://www.linkedin.com/in/joffrey-weertz/">
-    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png alt="Linkedin" height="40em" align="center"/>
+  <a href="https://www.linkedin.com/in/joffrey-weertz/">
+    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" alt="Linkedin" height="40em" align="center"/>
   </a>
   <a href= "https://twitter.com/JSUNSH1NEw">
     <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" alt="tweeter Joffrey weertz" height="40em" align="center"/>
