@@ -12,7 +12,7 @@
 ## ⬆ Where im from
 
 ```yaml
-🌀 🌌🌌🌌 ☄️☄️☄️ ☄☄☄☄☄☄☄
+🧿 🧿🧿🧿 🧿🧿🧿 🧿🧿🧿🧿🧿🧿🧿
 ```
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸 do
@@ -26,7 +26,7 @@
 	- Change some part of the world 
 
  
-## ⚡ 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 GitHub 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 (dont forget im working on a studio my commit are private)
+## ⚡ 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 GitHub 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 
 ![Metrics](https://metrics.lecoq.io/jSUNSH1NEw?template=terminal&lines=1&isocalendar=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=Europe%2FBrussels&config.twemoji=true)
 
 
@@ -34,10 +34,10 @@
   
 <p align="center">
   <a href="https://www.linkedin.com/in/joffrey-weertz/">
-    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" alt="Linkedin SUNSH1NE" height="20em" align="center"/>
+    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" alt="Linkedin SUNSH1NE" height="60em" align="center"/>
   </a>
-  <a href= "https://twitter.com/JSUNSH1NEw">
-    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" alt="tweeter SUNSH1NE" height="20em" align="center"/>
+  <a href= "https://twitter.com/JSUNSH1NEw"4
+    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" alt="tweeter SUNSH1NE" height="60em" align="center"/>
   </a>
 </p>
 	
