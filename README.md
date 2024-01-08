@@ -2,23 +2,26 @@
 
 ## 💬 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 
 - 🖥 Im 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Web3 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 🎓 2019 : Graduated by becode in the keller1.18 class,
-- 🎓 2019 : Graduated by Harvard eClassRoom from EDX,
+- 🎓 2019/2020 : Graduated by becode in the keller1.18 class,
+- 🎓 2019/2020 : Graduated by Harvard eClassRoom from EDX,
+- 👨‍💻 2020/2022 : Making auto training with web3 Hackathon
+- 👨‍💻 2022/2023 : Working with Ennea studio on multiple web3 solutions : (NFT, DEFI,Metaverse)
+- 👨‍💻 2023/2023 : Working with Mobula finance on a telegram bot (on chain data record & transmission with custom emoji)
 
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘 
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸 do
 
 ```yaml
-I joined the ennea studio since June 2022 to work on several solutions, Nft, DeFi, Metaverse  
+Im in love with code
 ```
 
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 working as a fullStack Web3 dev for Ennea.studio
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 studying on a pre-CyberSecurity training with becode
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
 	- Create my first business
-	- 𝙼𝚊𝚔𝚎 [**WorldProtocol**] a DeFi 2.0 protocol who focus on make btc a true cold value btc 
+	- 𝙼𝚊𝚔𝚎 [**Potencia Shield**] a DeFi 2.0 protocol who focus on make saving BTC values and lock it 
   	- Create a FullStack Web3 boilerpate React, Next, ReactNative,
 - 🤞 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-	- Change some little part of the world 
+	- Change some part of the world 
 
  
 ## ⚡ 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 GitHub 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 (dont forget im working on a studio my commit are private)
