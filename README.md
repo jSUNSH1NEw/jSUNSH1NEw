@@ -37,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" alt="Linkedin SUNSH1NE" height="60em" align="center"/>
   </a>
   <a href= "https://twitter.com/JSUNSH1NEw"4
-    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" alt="tweeter SUNSH1NE" height="60em" align="center"/>
+    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" alt="tweeter SUNSH1NE" height="60em" width="60em" align="center"/>
   </a>
 </p>
 	
