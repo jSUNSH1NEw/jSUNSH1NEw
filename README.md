@@ -9,11 +9,13 @@
 - 👨‍💻 2023/2023 : Working with Mobula finance on a telegram bot (on chain data record & transmission with custom emoji)
 
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸 do
+## ⬆ Where im from
 
 ```yaml
-Im in love with code
+🌀 🌌🌌🌌 ☄️☄️☄️ ☄☄☄☄☄☄☄
 ```
+
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸 do
 
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 studying on a pre-CyberSecurity training with becode
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
