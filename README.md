@@ -7,7 +7,7 @@
 - 👨‍💻 2020/2022 : Making auto-training doing some fun stuff at web3 Hackathon like 2021 AVAX/MORALIS hackathon
 - 👨‍💻 2022/2023 : Working with Ennea studio on multiple web3 solutions (10 solutions) : (NFT, DEFI, DC)
 - 👨‍💻 2023/2023 (2month) : Working with Mobula finance on a telegram bot (on chain data record & transmission with custom emoji)
-- 👨‍💻 2023/2024 : Doing a SOC analyst training at BeCode to perform my skill for audit WEB2/WEB3 app and other fun stuff like osint,physical pentest.
+- 👨‍💻 2023/2024 | 2024/2024 : Doing a SOC analyst training at BeCode to perform my skill for audit WEB2/WEB3 app and other fun stuff like osint,physical pentest.
 
 
 ## ⬆ Where im from
