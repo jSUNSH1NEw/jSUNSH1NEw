@@ -4,9 +4,10 @@
 - 🖥 Im 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Web3 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 2019/2020 : Graduated by becode in the keller1.18 class,
 - 🎓 2019/2020 : Graduated by Harvard eClassRoom from EDX,
-- 👨‍💻 2020/2022 : Making auto training with web3 Hackathon
-- 👨‍💻 2022/2023 : Working with Ennea studio on multiple web3 solutions : (NFT, DEFI,Metaverse)
-- 👨‍💻 2023/2023 : Working with Mobula finance on a telegram bot (on chain data record & transmission with custom emoji)
+- 👨‍💻 2020/2022 : Making auto-training doing some fun stuff at web3 Hackathon like 2021 AVAX/MORALIS hackathon
+- 👨‍💻 2022/2023 : Working with Ennea studio on multiple web3 solutions (10 solutions) : (NFT, DEFI, DC)
+- 👨‍💻 2023/2023 (2month) : Working with Mobula finance on a telegram bot (on chain data record & transmission with custom emoji)
+- 👨‍💻 2023/2024 : Doing a SOC analyst training at BeCode to perform my skill for audit WEB2/WEB3 app and other fun stuff like osint,physical pentest.
 
 
 ## ⬆ Where im from
