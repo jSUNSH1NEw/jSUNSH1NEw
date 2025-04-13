@@ -1,7 +1,7 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 0 * * 1"}] # Chaque lundi
+  schedule: [{cron: "0 0 * * 1"}]
   workflow_dispatch:
 
 jobs:
@@ -15,6 +15,29 @@ jobs:
           user: valentin-dev
           template: classic
           base: header, activity, community, repositories, metadata
+
+          # ✅ Langages utilisés
           plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 8
+
+          # ✅ Commits & lignes de code
           plugin_lines: yes
+
+          # ✅ Statistiques de trafic
           plugin_traffic: yes
+
+          # ✅ Activité journalière
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+
+          # ✅ Achievements GitHub
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+
+          # ✅ Statistiques de stargazers
+          plugin_stargazers: yes
+
+          # ✅ Contrib graph (heatmap)
+          plugin_isocalendar: yes
